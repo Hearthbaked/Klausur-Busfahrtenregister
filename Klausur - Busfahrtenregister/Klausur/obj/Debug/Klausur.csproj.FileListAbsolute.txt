@@ -1,0 +1,16 @@
+C:\Users\Stephan\source\repos\Klausur\Klausur\bin\Debug\Klausur.exe.config
+C:\Users\Stephan\source\repos\Klausur\Klausur\bin\Debug\Klausur.exe
+C:\Users\Stephan\source\repos\Klausur\Klausur\bin\Debug\Klausur.pdb
+C:\Users\Stephan\source\repos\Klausur\Klausur\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Stephan\source\repos\Klausur\Klausur\bin\Debug\Google.Protobuf.dll
+C:\Users\Stephan\source\repos\Klausur\Klausur\bin\Debug\MySql.Data.dll
+C:\Users\Stephan\source\repos\Klausur\Klausur\bin\Debug\Google.Protobuf.xml
+C:\Users\Stephan\source\repos\Klausur\Klausur\bin\Debug\MySql.Data.xml
+C:\Users\Stephan\source\repos\Klausur\Klausur\obj\Debug\Klausur.csprojAssemblyReference.cache
+C:\Users\Stephan\source\repos\Klausur\Klausur\obj\Debug\Klausur.Form1.resources
+C:\Users\Stephan\source\repos\Klausur\Klausur\obj\Debug\Klausur.Properties.Resources.resources
+C:\Users\Stephan\source\repos\Klausur\Klausur\obj\Debug\Klausur.csproj.GenerateResource.cache
+C:\Users\Stephan\source\repos\Klausur\Klausur\obj\Debug\Klausur.csproj.CoreCompileInputs.cache
+C:\Users\Stephan\source\repos\Klausur\Klausur\obj\Debug\Klausur.csproj.CopyComplete
+C:\Users\Stephan\source\repos\Klausur\Klausur\obj\Debug\Klausur.exe
+C:\Users\Stephan\source\repos\Klausur\Klausur\obj\Debug\Klausur.pdb
